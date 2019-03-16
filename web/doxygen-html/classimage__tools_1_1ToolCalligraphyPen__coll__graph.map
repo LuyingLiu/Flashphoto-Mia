@@ -1,0 +1,6 @@
+<map id="image_tools::ToolCalligraphyPen" name="image_tools::ToolCalligraphyPen">
+<area shape="rect" id="node2" href="$classimage__tools_1_1Tool.html" title="image_tools::Tool" alt="" coords="212,95,337,121"/>
+<area shape="rect" id="node3" href="$classimage__tools_1_1FloatMatrix.html" title="image_tools::FloatMatrix" alt="" coords="5,5,171,32"/>
+<area shape="rect" id="node4" href="$classimage__tools_1_1ColorData.html" title="This color data class stores color in floating point format. The Red, Green, Blue, and Alpha channels range from 0.0 to 1.0. " alt="" coords="195,5,354,32"/>
+<area shape="rect" id="node5" href="$classimage__tools_1_1PixelBuffer.html" title="Stores an array of ColorData, such as an image that can be drawn to the screen. " alt="" coords="378,5,542,32"/>
+</map>

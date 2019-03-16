@@ -1,0 +1,10 @@
+<map id="image_tools::Tool" name="image_tools::Tool">
+<area shape="rect" id="node2" href="$classimage__tools_1_1ToolBlur.html" title="This tool serves as a mobile version of the blur filter, functions much like the spray can..." alt="" coords="211,5,359,32"/>
+<area shape="rect" id="node3" href="$classimage__tools_1_1ToolCalligraphyPen.html" title="This tool simulates a Calligraphy Pen, meaning it paints with a different thickness depending on whic..." alt="" coords="179,56,392,83"/>
+<area shape="rect" id="node4" href="$classimage__tools_1_1ToolChalk.html" title="This tool simulates chalk drawing on a rough paper. The class overrides Tool&#39;s default color blending..." alt="" coords="206,107,365,133"/>
+<area shape="rect" id="node5" href="$classimage__tools_1_1ToolEraser.html" title="This tool simulates an Eraser. It overrides the Tool&#39;s StartStroke method to change the paint_color t..." alt="" coords="204,157,367,184"/>
+<area shape="rect" id="node6" href="$classimage__tools_1_1ToolHighlighter.html" title="This tool simulates a Highlighter. It has a semi&#45;transparent oval mask. It overrides the default Tool..." alt="" coords="192,208,379,235"/>
+<area shape="rect" id="node7" href="$classimage__tools_1_1ToolPen.html" title="The simplest of tools, this has a mask that is a completely opaque circle. " alt="" coords="211,259,359,285"/>
+<area shape="rect" id="node8" href="$classimage__tools_1_1ToolSprayCan.html" title="image_tools::ToolSprayCan" alt="" coords="194,309,377,336"/>
+<area shape="rect" id="node9" href="$classimage__tools_1_1ToolStamp.html" title="Stamps a single X marks the spot. " alt="" coords="204,360,367,387"/>
+</map>

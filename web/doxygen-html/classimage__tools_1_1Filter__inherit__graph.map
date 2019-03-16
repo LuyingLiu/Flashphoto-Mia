@@ -1,0 +1,11 @@
+<map id="image_tools::Filter" name="image_tools::Filter">
+<area shape="rect" id="node2" href="$classimage__tools_1_1ConvolutionFilter.html" title="image_tools::Convolution\lFilter" alt="" coords="191,103,361,144"/>
+<area shape="rect" id="node7" href="$classimage__tools_1_1FilterChannels.html" title="This filter is like a saturation filter, but operates on the Red, Green, and/or Blue channel separate..." alt="" coords="184,169,368,195"/>
+<area shape="rect" id="node8" href="$classimage__tools_1_1FilterQuantize.html" title="This filter reduces the number of unique colors in the image by binning similar colors.It takes a preset number of bins as input. " alt="" coords="185,219,367,246"/>
+<area shape="rect" id="node9" href="$classimage__tools_1_1FilterSaturate.html" title="Saturation is a measure of how vibrant the colors in the image are. A completely non&#45;saturated image ..." alt="" coords="187,270,365,297"/>
+<area shape="rect" id="node10" href="$classimage__tools_1_1FilterThreshold.html" title="This filter turns any pixel with an average intensity value greater than the threshold parameter set ..." alt="" coords="183,321,369,347"/>
+<area shape="rect" id="node3" href="$classimage__tools_1_1ConvolutionFilterBlur.html" title="This filter uses a Gaussian Blur image convolution kernel to blur the image in proportion to the amou..." alt="" coords="417,5,587,47"/>
+<area shape="rect" id="node4" href="$classimage__tools_1_1ConvolutionFilterEdge.html" title="This filter transforms the image into one that only shows the edges of shapes by convolving it with a..." alt="" coords="417,71,587,112"/>
+<area shape="rect" id="node5" href="$classimage__tools_1_1ConvolutionFilterMotionBlur.html" title="This filter blurs the image by convolving it with an appropriate motion&#45;blurring kernel. It supports four possible blurring directions (North&#45;to&#45;South, East&#45;to&#45;West, Northeast&#45;to&#45;Southwest, and Northwest&#45;to&#45;Southeast) and blur according to the amount specified in the GUI. " alt="" coords="417,136,587,177"/>
+<area shape="rect" id="node6" href="$classimage__tools_1_1ConvolutionFilterSharpen.html" title="This filter sharpens the image (accentuate the edges of shapes) in proportion to the amount specified..." alt="" coords="417,201,587,243"/>
+</map>
