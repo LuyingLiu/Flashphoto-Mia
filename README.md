@@ -1,8 +1,4 @@
-## Project Directory
 
-This is the project directory for CSCI-3081.
-
-### CSE Lab Machines (Supported)
 
 #### Build and Run
 
